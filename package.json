@@ -1,0 +1,1 @@
+{ "name": "solar-cert", "private": true, "dependencies": { "solc": "0.8.24", "ganache": "^7.9.2" } }
